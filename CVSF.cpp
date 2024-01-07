@@ -4,7 +4,6 @@
 #include <unistd.h>
 #include <iostream>
 
-// #include<io.h>
 
 #define MAXINODE 50
 
